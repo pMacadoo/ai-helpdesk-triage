@@ -1,0 +1,12 @@
+[
+  { "id": "T-1001", "subject": "Whole office lost internet", "body": "Nobody can get online since 8:40. Wi-Fi shows connected but no internet. Phones work.", "usersAffected": 14 },
+  { "id": "T-1002", "subject": "Weird email from 'IT team'", "body": "I clicked the link in a suspicious email asking me to verify my mailbox and typed my password. Now I'm worried." },
+  { "id": "T-1003", "subject": "Locked out", "body": "I can't log in to my computer. It says my account is locked. I have a client waiting." },
+  { "id": "T-1004", "subject": "Printer on 2nd floor", "body": "Paper jam again on the copier by the break room. No rush." },
+  { "id": "T-1005", "subject": "Laptop won't turn on", "body": "My laptop won't turn on this morning. Charger light is on. I spilled a little coffee yesterday." },
+  { "id": "T-1006", "subject": "Excel keeps crashing", "body": "Excel crashes every time I open the budget file. Error code 0xc0000005. Deadline is today." },
+  { "id": "T-1007", "subject": "VPN dropping at home", "body": "VPN keeps disconnecting every 10 minutes when I work from home." },
+  { "id": "T-1008", "subject": "Emails not sending", "body": "Emails won't send from Outlook, they sit in the outbox. Webmail works fine." },
+  { "id": "T-1009", "subject": "New monitor request", "body": "When you get a chance, could I get a second monitor? Nice to have for spreadsheets." },
+  { "id": "T-1010", "subject": "Question", "body": "How do I change my desktop background?" }
+]

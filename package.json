@@ -1,0 +1,20 @@
+{
+  "name": "ai-helpdesk-triage",
+  "version": "1.0.0",
+  "description": "Triage help desk tickets: category, priority and first steps. Works offline with rules; optionally asks Claude for a second opinion.",
+  "type": "module",
+  "bin": { "triage": "dist/cli.js" },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "triage": "tsx src/cli.ts"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "@types/node": "22.18.0",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vitest": "3.2.4"
+  }
+}
